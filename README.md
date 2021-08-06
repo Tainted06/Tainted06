@@ -10,8 +10,11 @@
 <summary>Finished Projects</summary>
 <br>
 <a href="https://github.com/Tainted06/CS-Simple-Text-Spammer">- C# Simple Text Spammer</a>
+<br>
 <a href="https://github.com/Tainted06/Infinity-Typer">- Discord Infinity Typer</a>
+<br>
 <a href="https://github.com/Tainted06/DankMemerBot">- Dank Memer Auto Command Bot</a>
+<br>
 <a href="https://github.com/Tainted06/Better-Discord-Themes">- Better Discord Themes</a>
 </details>
   
@@ -19,6 +22,7 @@
 <summary>Projects I'm Still Working On</summary>
 <br>
 <a href="https://github.com/Tainted06/Tainteds-Discord-Tools">- Tainted's Discord Tools</a>
+<br>
 <a href="https://github.com/Tainted06/Animated-Status-Selfbot">- Animated Discord Status</a>
 </details>
   
