@@ -16,6 +16,7 @@
 <a href="https://github.com/Tainted06/DankMemerBot">- Dank Memer Auto Command Bot</a>
 <br>
 <a href="https://github.com/Tainted06/Better-Discord-Themes">- Better Discord Themes</a>
+<br>
 </details>
   
 <details>
@@ -24,6 +25,7 @@
 <a href="https://github.com/Tainted06/Tainteds-Discord-Tools">- Tainted's Discord Tools</a>
 <br>
 <a href="https://github.com/Tainted06/Animated-Status-Selfbot">- Animated Discord Status</a>
+<br>
 </details>
   
 <details>
