@@ -15,13 +15,14 @@
 <details>
 <summary>Projects I'm Still Working On</summary>
 <br>
-- (still have to fill out)
+- [Animated-Status-Selfbot](https://github.com/Tainted06/Tainteds-Discord-Tools) 
 </details>
   
 <details>
 <summary>Github Statistics</summary>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tainted06&show_icons=true&theme=tokyonight" alt="If your seeing this, for some reason the stats arent loading" />
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tainted06&layout=compact&theme=tokyonight" alt="If your seeing this, for some reason the stats arent loading" />
 </details>
 </div>
