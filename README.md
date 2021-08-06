@@ -9,13 +9,17 @@
 <details>
 <summary>Finished Projects</summary>
 <br>
-- (still have to fill out)
+<a href="https://github.com/Tainted06/CS-Simple-Text-Spammer">- C# Simple Text Spammer</a>
+<a href="https://github.com/Tainted06/Infinity-Typer">- Discord Infinity Typer</a>
+<a href="https://github.com/Tainted06/DankMemerBot">- Dank Memer Auto Command Bot</a>
+<a href="https://github.com/Tainted06/Better-Discord-Themes">- Better Discord Themes</a>
 </details>
   
 <details>
 <summary>Projects I'm Still Working On</summary>
 <br>
-- [Animated-Status-Selfbot](https://github.com/Tainted06/Tainteds-Discord-Tools) 
+<a href="https://github.com/Tainted06/Tainteds-Discord-Tools">- Tainted's Discord Tools</a>
+<a href="https://github.com/Tainted06/Animated-Status-Selfbot">- Animated Discord Status</a>
 </details>
   
 <details>
