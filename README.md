@@ -36,7 +36,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tainted06&layout=compact&theme=tokyonight" alt="If your seeing this, for some reason the stats arent loading" />
 </details>
 </div>
-
-
-
-<img src="https://iplogger.org/1qgrs7">
