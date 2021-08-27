@@ -35,6 +35,6 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tainted06&layout=compact&theme=tokyonight" alt="If your seeing this, for some reason the stats arent loading" />
 <br>
-<img hidden align="center" src="https://komarev.com/ghpvc/?username=Tainted06" alt="If your seeing this, for some reason the stats arent loading"/>
+<img align="center" src="https://komarev.com/ghpvc/?username=Tainted06" alt="If your seeing this, for some reason the stats arent loading"/>
 </details>
 </div>
