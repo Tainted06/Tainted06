@@ -9,22 +9,26 @@
 <details>
 <summary>Finished Projects</summary>
 <br>
-<a href="https://github.com/Tainted06/CS-Simple-Text-Spammer">- C# Simple Text Spammer</a>
+Animated Status Selfbot  
 <br>
-<a href="https://github.com/Tainted06/Infinity-Typer">- Discord Infinity Typer</a>
+C# Simple Text Spammer
 <br>
-<a href="https://github.com/Tainted06/DankMemerBot">- Dank Memer Auto Command Bot</a>
-<br>
-<a href="https://github.com/Tainted06/Better-Discord-Themes">- Better Discord Themes</a>
+Dank Memer Bot
 <br>
 </details>
   
 <details>
 <summary>Projects I'm Still Working On</summary>
 <br>
-<a href="https://github.com/Tainted06/Tainteds-Discord-Tools">- Tainted's Discord Tools</a>
+Lightshot Image Scraper
 <br>
-<a href="https://github.com/Tainted06/Animated-Status-Selfbot">- Animated Discord Status</a>
+Prank Virus Creator
+<br>
+Discord Rich Presence Editor
+<br>
+Discord Infinity Typer
+<br>
+Better Discord Themes
 <br>
 </details>
   
