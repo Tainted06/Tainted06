@@ -15,12 +15,12 @@
 <br>
 <a href="https://github.com/Tainted06/DankMemerBot">- Dank Memer Bot</a>
 <br>
+<a href="https://github.com/Tainted06/Lightshot-Image-Scraping">- Lightshot Image Scraper</a>
+<br>
 </details>
   
 <details>
 <summary>Projects I'm Still Working On</summary>
-<br>
-- Lightshot Image Scraper
 <br>
 - Prank Virus Creator
 <br>
