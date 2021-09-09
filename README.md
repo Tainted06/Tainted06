@@ -17,6 +17,8 @@
 <br>
 <a href="https://github.com/Tainted06/Lightshot-Image-Scraping">- Lightshot Image Scraper</a>
 <br>
+<a href="https://github.com/Tainted06/Better-Discord-Themes">- Better Discord Themes</a>
+<br>
 </details>
   
 <details>
@@ -27,8 +29,6 @@
 - Discord Rich Presence Editor
 <br>
 - Discord Infinity Typer
-<br>
-- Better Discord Themes
 <br>
 </details>
   
