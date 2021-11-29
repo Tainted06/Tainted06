@@ -2,7 +2,7 @@
 - 🔢 Age: 15
 - 💻 Intrests: Coding and Cyber Security
 - 🆎 Favorite Languages: C# and Python
-- 🔭 Current Project: [Tainted's Discord Tools](https://github.com/Tainted06/Tainteds-Discord-Tools) 
+- 🔭 Current Project: [Suzune Bot](https://github.com/Tainted06/Suzune-Bot) 
 - 📫 Discord: Tainted#0069
 
 <div align="center">
@@ -23,8 +23,6 @@
   
 <details>
 <summary>Projects I'm Still Working On</summary>
-<br>
-- Prank Virus Creator
 <br>
 - Discord Rich Presence Editor
 <br>
