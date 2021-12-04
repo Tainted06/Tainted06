@@ -6,8 +6,9 @@
 - 📫 Discord: Tainted#0069
 
 <div align="center">
-  <b>[Dev of Carnage Bot](https://carnagebot.xyz/) </b>
+  <b>Dev of Carnage Bot - https://carnagebot.xyz/ </b>
 </div>
+<br>
   
 <div align="center">
 <details>
