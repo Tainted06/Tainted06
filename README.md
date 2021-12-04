@@ -5,8 +5,10 @@
 - 🔭 Current Project: [Carnage Bot](https://carnagebot.xyz/) 
 - 📫 Discord: Tainted#0069
 
-#### [Dev of Carnage Bot](https://carnagebot.xyz/) 
-
+<div align="center">
+## [Dev of Carnage Bot](https://carnagebot.xyz/) 
+</div>
+  
 <div align="center">
 <details>
 <summary>Finished Projects</summary>
