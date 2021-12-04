@@ -2,8 +2,10 @@
 - 🔢 Age: 15
 - 💻 Intrests: Coding and Cyber Security
 - 🆎 Favorite Languages: C# and Python
-- 🔭 Current Project: [Suzune Bot](https://github.com/Tainted06/Suzune-Bot) 
+- 🔭 Current Project: [Carnage Bot](https://carnagebot.xyz/) 
 - 📫 Discord: Tainted#0069
+
+#### [Dev of Carnage Bot](https://carnagebot.xyz/) 
 
 <div align="center">
 <details>
