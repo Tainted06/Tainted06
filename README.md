@@ -1,4 +1,4 @@
-### Sup, I'm Tainted!
+### Hey there! I'm Tainted, a 15 year old dev with aspirations bigger than I can handle :)
 - 🔢 Age: 15
 - 💻 Intrests: Coding and Cyber Security
 - 🆎 Favorite Languages: C# and Python
