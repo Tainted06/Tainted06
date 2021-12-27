@@ -10,7 +10,7 @@
   <br>
   <br>
   
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tainted06&bg_color=ffffff&color=000000&line=9c4f97&point=000000&area=true&hide_border=true" alt="cool">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tainted06&theme=react-dark" alt="cool">
   <br>
   <br>
   
