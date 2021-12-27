@@ -6,6 +6,9 @@
 - 📫 Discord: Tainted#0069
 
 <div align="center">
+<img align="center" src="https://discord.c99.nl/widget/theme-2/523827341030457365.png" alt="Contact me on Discord! Tainted#0069">
+  <br>
+  <br>
   <b>Dev of Carnage Bot - https://carnagebot.xyz/ </b>
 </div>
 <br>
