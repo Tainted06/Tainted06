@@ -9,34 +9,17 @@
 <img align="center" src="https://discord.c99.nl/widget/theme-2/523827341030457365.png" alt="Contact me on Discord! Tainted#0069">
   <br>
   <br>
+  
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tainted06&bg_color=ffffff&color=000000&line=9c4f97&point=000000&area=true&hide_border=true" alt="cool">
+  <br>
+  <br>
+  
+  [Checkout the various projects I have created!](https://github.com/Tainted06?tab=repositories) 
+  <br>
+  <br>
   <b>Dev of Carnage Bot - https://carnagebot.xyz/ </b>
 </div>
 <br>
-  
-<div align="center">
-<details>
-<summary>Finished Projects</summary>
-<br>
-<a href="https://github.com/Tainted06/DankMemerBot">- Discord Animated Status Selfbot</a>
-<br>
-<a href="https://github.com/Tainted06/CS-Simple-Text-Spammer">- C# Simple Text Spammer</a>
-<br>
-<a href="https://github.com/Tainted06/DankMemerBot">- Dank Memer Bot</a>
-<br>
-<a href="https://github.com/Tainted06/Lightshot-Image-Scraping">- Lightshot Image Scraper</a>
-<br>
-<a href="https://github.com/Tainted06/Better-Discord-Themes">- Better Discord Themes</a>
-<br>
-</details>
-  
-<details>
-<summary>Projects I'm Still Working On</summary>
-<br>
-- Discord Rich Presence Editor
-<br>
-- Discord Infinity Typer
-<br>
-</details>
   
 <details>
 <summary>Github Statistics</summary>
