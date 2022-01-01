@@ -17,7 +17,9 @@
   [Checkout the various projects I have created!](https://github.com/Tainted06?tab=repositories) 
   <br>
   <br>
-  <b>Dev of Carnage Bot - https://carnagebot.xyz/ </b>
+  <b>Dev of Carnage Bot - https://carnagebot.xyz/ </b>  
+  <br>
+  <b>CEO & Founder of Discord Services - https://discordservices.biz/ </b>
 </div>
 <br>
   
