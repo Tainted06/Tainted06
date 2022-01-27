@@ -2,7 +2,7 @@
 - 🔢 Age: 15
 - 💻 Intrests: Coding and Cyber Security
 - 🆎 Favorite Languages: C# and Python
-- 🔭 Current Project: [Carnage Bot](https://carnagebot.xyz/) 
+- 🔭 Current Project(s): [Carnage Bot](https://carnagebot.xyz/), [Discord Services](https://discordservices.biz)
 - 📫 Discord: Tainted#0069
 
 <div align="center">
