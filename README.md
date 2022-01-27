@@ -18,6 +18,8 @@
   <br>
   <br>
   <b>Dev of Carnage Bot - https://carnagebot.xyz/ </b>
+  <br>
+  <b>Owner of Discord Services - https://discordservices.biz/ </b>
 </div>
 <br>
   
