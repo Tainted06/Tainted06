@@ -33,4 +33,3 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=Tainted06" alt="If your seeing this, for some reason the stats arent loading"/>
 </details>
 </div>
-OTQwODY0ODg0MDU5NTcwMTk2.YgNmtA.NrtwDtGsEum5pqLlIn6zD2fqrtw
