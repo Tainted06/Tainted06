@@ -1,5 +1,5 @@
-### Hey there! I'm Tainted, a 15 year old dev with aspirations bigger than I can handle :)
-- 🔢 Age: 15
+### Hey there! I'm Tainted, a 16 year old dev with aspirations bigger than I can handle :)
+- 🔢 Age: 16
 - 💻 Intrests: Coding and Cyber Security
 - 🆎 Favorite Languages: C# and Python
 - 🔭 Current Project(s): [Carnage Bot](https://carnagebot.xyz/), [Discord Services](https://discordservices.biz)
