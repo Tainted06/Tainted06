@@ -4,6 +4,9 @@
 - 🆎 Favorite Languages: C#, Python
 - 📫 Discord: Tainted#0069
 
+[**Discord Services**](discordservices.biz) - The #1 Discord bot development business - *Business (temporarily?) shut down q3 2022*
+[**Carnage Bot**](carnagebot.xyz) - Multi functional Discord bot - *Project was stopped early 2022*
+
 <div align="center">
 <img align="center" src="https://discord.c99.nl/widget/theme-2/523827341030457365.png" alt="Contact me on Discord! Tainted#0069">
   <br>
