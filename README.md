@@ -1,4 +1,4 @@
-### Hey there! I'm Tainted, a 16 year old dev with aspirations bigger than I can handle :)
+### Hey there! I'm Tainted, a 16 year old dev!
 - 🔢 Age: 16
 - 💻 Intrests: A lot
 - 🆎 Favorite Languages: C#, Python
