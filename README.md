@@ -7,7 +7,7 @@
   <br>
   <br>
   
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Tainted06&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Tainted06&theme=react-dark"/>
   
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tainted06&show_icons=true&theme=tokyonight"/>
