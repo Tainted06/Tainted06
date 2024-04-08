@@ -1,12 +1,6 @@
-### Hey there! I'm Tainted, a 17 year old dev!
-- 🔢 Age: 17
-- 💻 Intrests: A lot
-- 🆎 Favorite Languages: C#, Python
-- 📫 Discord: Tainted#0069
+### Telegram: @TanitedDev - Discord: @Tainted.Dev
 
-[**Discord Services**](discordservices.biz) - **The #1 Discord bot development business** - *Business (temporarily?) shut down q3 2022*
-
-[**Carnage Bot**](carnagebot.xyz) - **Multi functional Discord bot** - *Project was stopped early 2022*
+[**Personal Website**](tainted.dev) 
 
 <div align="center">
 <img align="center" src="https://discord.c99.nl/widget/theme-2/523827341030457365.png" alt="Contact me on Discord! Tainted#0069">
